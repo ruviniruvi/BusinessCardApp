@@ -5,7 +5,7 @@
     android:id="@+id/textVeiw"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background=" #E6FCFC"
+    android:background=" #F0CFCD"
     tools:context=".MainActivity">
 
     <TextView
@@ -17,7 +17,7 @@
         android:layout_marginEnd="32dp"
         android:text="Mestiyage Dona Senevirathna"
         android:textAlignment="center"
-        android:textColor="#F54595"
+        android:textColor="#555555"
         android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -32,22 +32,22 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="259dp"
-        android:layout_height="48dp"
+        android:layout_width="282dp"
+        android:layout_height="84dp"
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="8dp"
 
-        android:text="Android Developer"
+        android:text="Aspiring Software Engineer"
         android:textAlignment="center"
-        android:textColor="#F54595"
+        android:textColor="#555555"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
-        app:layout_constraintVertical_bias="0.025"
-        tools:text="Android Developer" />
+        app:layout_constraintVertical_bias="0.024"
+        tools:text="Aspiring Software Engineer" />
 
     <TextView
         android:id="@+id/textView3"
@@ -55,7 +55,7 @@
         android:layout_height="66dp"
         android:text="mestis@gmail.com  (917) 222 5555 "
         android:textAlignment="center"
-        android:textColor="#F54595"
+        android:textColor="#555555"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -69,7 +69,7 @@
         android:layout_height="45dp"
         android:text="Contact Me "
         android:textAlignment="center"
-        android:textColor="#F54595"
+        android:textColor="#555555"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/textView3"
         app:layout_constraintEnd_toEndOf="parent"
